@@ -7,7 +7,7 @@ This notebook predicts the carbon emissions in Rwanda for year 2022 using the em
 
 The Evaluation of the predicted carbon emissions was done using the Root Mean Squared Error.
 
-Kaggle Score:
+### Kaggle Score:
 
 Private Score - 15.69863
 
